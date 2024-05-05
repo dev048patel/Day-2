@@ -7,7 +7,6 @@ object Driver {
     @JvmStatic
     fun main(args: Array<String>) {
 
-        val str1 : String = "Hello"
-        println(str1)
+        
     }
 }
